@@ -1,0 +1,1 @@
+Simple recognize rectangular object on two adjacent images
