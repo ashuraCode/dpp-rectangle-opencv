@@ -1,1 +1,1 @@
-Simple recognize rectangular object on two adjacent images
+Simple recognize rectangular object on two adjacent images. Application need OpenCV to process.
